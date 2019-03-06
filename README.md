@@ -11,5 +11,6 @@ See the Showroom and Showroom search images for a guide on layout
 
 
 ### Extra Credit
-- Have the search component call a nodejs/expressjs backend
+- Serve these pages in a node.js server(Express.JS)
+  - Have the search component call a nodejs/expressjs backend
  
