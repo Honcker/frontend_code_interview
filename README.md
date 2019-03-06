@@ -9,4 +9,5 @@
 - Serve these pages in a node.js server(Express.JS)
   - Have the search component call a nodejs/expressjs backend
 - Utilize Assets/Typefaces for embedding fonts 
+- Write a unit test for the search component
  
