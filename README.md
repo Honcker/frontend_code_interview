@@ -3,6 +3,7 @@
 ### A) HTML/CSS Requirements
 - Extract assets from the `Front End Dev Test.sketch` Sketch File
  - Not necessary to extract all elements if you don't have Sketch app (www.sketch.com)
+ - You can utilize the PNG equivalent
 - Convert to HTML with CSS inline (No CSS frameworks)
 - The frontend must be responsive
 
