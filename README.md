@@ -6,7 +6,7 @@
 - Convert to HTML with CSS inline (No CSS frameworks)
 - The frontend must be responsive
 
-You will be judged on html and css semantics and Overall responsiveness. 
+You will be judged on html and css semantics and overall responsiveness. 
 
 ### B) Frontend Engineer Requirements (including A)
 - The search bar should be a component (vuejs/reactjs)
